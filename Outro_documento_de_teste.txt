@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+esse doc é do develop
+=======
+estou adicionando uma alteração na branch develop
+>>>>>>> develop
